@@ -1,4 +1,6 @@
-# 3D calibration set
+# 3D calibration set [![Awesome]()](https://github.com/sindresorhus/awesome)
+
+A curated list of awesome 3D printing resources.
 3D calibration curated set 
 
 ## Bed leveling procedure
