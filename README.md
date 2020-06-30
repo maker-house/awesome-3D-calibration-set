@@ -1,10 +1,9 @@
 # 3D calibration set [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome 3D printing resources.
-3D calibration curated set 
+A curated list of awesome 3D printing calibration resources.
 
 ## Bed leveling procedure
-- []( )
+- [Bed Leveling](https://github.com/maker-house/BedLevelingGcodes)
 
 ## Bed leveling test
 - [](https://www.thingiverse.com/thing:4362091)
